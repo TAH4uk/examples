@@ -1,4 +1,3 @@
-﻿int numberA = 3;
-int numberB = 25;
-int summa = numberA + numberB;
-Console.WriteLine(summa);
+﻿double numberA = 18;
+double numberB = 5;
+Console.WriteLine(numberA / numberB);
